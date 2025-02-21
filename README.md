@@ -1,17 +1,51 @@
-## Hi there 👋, Hi there I am MD.Zannatun Nayem
-######    ✔I am Web Developer.
-######  🖊️ Love to write code.
-######  🎤 Like to share my knowledge .
-I’m a backend Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication.  
+### Hi there! 👋 I'm MD.Zannatun Nayem
 
-Skills:/HTML / CSS/ PHP/ JavaScript/ MYSQL 
+I'm a **Software Developer** passionate about building web applications, working with **PHP, JavaScript, Laravel, and MySQL**. I enjoy learning new technologies and improving backend performance!
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PHP .
-- 💬 Ask me about github .
+---
 
+### 🚀 About Me:
+- 🎓 Studying **B.Sc. in Computer Science & Engineering** at **Dhaka International University**.
+- 🔧 Working on **MVC PHP Projects & API Integrations**.
+- 💡 Exploring **Advanced Database Management & System Optimization**.
+- ⚡ Interested in **Real-time Data Processing & Reporting Systems**.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nayemulislam24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nayemul.zannat.5)  
+---
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+### 🛠️ Tech Stack:
 
+- **Languages**: PHP, JavaScript, SQL
+- **Frameworks & Libraries**: Laravel, jQuery, Blade, Eloquent ORM
+- **Databases**: MySQL, SQLite
+- **Tools**: Git, GitHub, Postman, Docker
+- **OS**: Linux (Ubuntu, CentOS), Windows
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+### 📫 How to Reach Me:
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **GitHub**: [your-username](https://github.com/your-username)
+
+---
+
+### 🏆 My Recent Projects:
+- ✅ [Project Name 1](https://github.com/your-username/project1) - Short project description.
+- ✅ [Project Name 2](https://github.com/your-username/project2) - Short project description.
+- ✅ [Project Name 3](https://github.com/your-username/project3) - Short project description.
+
+---
+
+### 🎯 Fun Fact:
+💻 I love debugging complex problems and optimizing database queries for high-performance applications!
+
+---
+
+🔥 **Let's build something amazing together!** 🔥
