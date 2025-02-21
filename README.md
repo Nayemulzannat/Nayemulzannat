@@ -40,11 +40,10 @@ I'm a **Software Developer** passionate about building web applications, working
   <a href="https://www.facebook.com/profile.php?id=61551127410363" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="www.linkedin.com/in/nayemulzannat" target="_blank">
+  <a href="https://www.linkedin.com/in/nayemulzannat" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats:
