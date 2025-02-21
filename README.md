@@ -25,7 +25,7 @@ I'm a **Software Developer** passionate about building web applications, working
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>MySQL</td>
     <td align="center"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><br>PHP</td>
-    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-laravel-is-a-web-application-framework-with-an-expressive-syntax-logo-color-tal-revivo.png"/><br>Laravel</td>
+    <td align="center"><img src="https://camo.githubusercontent.com/24c3b809efdc670e6173fdccbf65ce152d65da896ef80d1e9d18dd4f6121c1ff/68747470733a2f2f74696e7975726c2e636f6d2f327564786b636276"/><br>Laravel</td>
      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/cpanel.png"/><br>cPanel</td>
     <td align="center"><img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><br>JavaScript</td>
     <td align="center"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-jquery-programming-and-development-those-icons-flat-those-icons.png"/><br>jQuery</td>
