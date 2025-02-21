@@ -14,32 +14,24 @@ I'm a **Software Developer** passionate about building web applications, working
 
 ### 🛠️ Tech Tools:
 <table>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>MySQL</td>
-    <td align="center"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><br>PHP</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/laravel.png"/><br>Laravel</td>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><br>JavaScript</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/react-native.png"/><br>ReactJS</td>
+    <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML5</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS3</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/tailwind_css.png"/><br>TailwindCSS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/><br>Git</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><br>VS Code</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/cpanel.png"/><br>cPanel</td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/48/000000/wordpress.png"/><br>WordPress</td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><br>PHP</td>
+    <td align="center"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-laravel-is-a-web-application-framework-with-an-expressive-syntax-logo-color-tal-revivo.png"/><br>Laravel</td>
+     <td align="center"><img src="https://img.icons8.com/fluency/48/000000/cpanel.png"/><br>cPanel</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><br>JavaScript</td>
+    <td align="center"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-jquery-programming-and-development-those-icons-flat-those-icons.png"/><br>jQuery</td>
+  </tr>
+
 </table>
----
-### 🏆 My Recent Projects:
-- ✅ [php-mvc-project](https://github.com/Nayemulzannat/php-mvc-project.git).
-- ✅ [php-mvc-project-pacage](https://github.com/Nayemulzannat/php-mvc-project-pacage.git).
-
----
-
-### 🎯 Fun Fact:
-💻 I love debugging complex problems and optimizing database queries for high-performance applications!
 
 ---
 
@@ -53,7 +45,6 @@ I'm a **Software Developer** passionate about building web applications, working
   </a>
 </p>
 
----
 ---
 
 ### 📊 GitHub Stats:
