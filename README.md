@@ -14,7 +14,7 @@ I'm a **Software Developer** passionate about building web applications, working
 
 ### 🛠️ Tech Tools:
 <table>
-    <tr>
+  <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML5</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS3</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap</td>
@@ -25,14 +25,13 @@ I'm a **Software Developer** passionate about building web applications, working
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>MySQL</td>
     <td align="center"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><br>PHP</td>
-     <td align="center"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-laravel-is-a-web-application-framework-with-an-expressive-syntax-logo-color-tal-revivo.png"/><br>Laravel</td>
-
-     <td align="center"><img src="https://img.icons8.com/fluency/48/000000/cpanel.png"/><br>cPanel</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/laravel.png"/><br>Laravel</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/cpanel.png"/><br>cPanel</td>
     <td align="center"><img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><br>JavaScript</td>
     <td align="center"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-jquery-programming-and-development-those-icons-flat-those-icons.png"/><br>jQuery</td>
   </tr>
-
 </table>
+
 
 ---
 
