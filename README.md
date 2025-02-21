@@ -12,39 +12,54 @@ I'm a **Software Developer** passionate about building web applications, working
 
 ---
 
-### 🛠️ Tech Stack:
-
-- **Languages**: PHP, JavaScript, SQL
-- **Frameworks & Libraries**: Laravel, jQuery, Blade, Eloquent ORM
-- **Databases**: MySQL, SQLite
-- **Tools**: Git, GitHub, Postman, Docker
-- **OS**: Linux (Ubuntu, CentOS), Windows
+### 🛠️ Tech Tools:
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/><br>PHP</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/laravel.png"/><br>Laravel</td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><br>JavaScript</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/react-native.png"/><br>ReactJS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML5</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS3</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/tailwind_css.png"/><br>TailwindCSS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br>Bootstrap</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png"/><br>Git</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><br>VS Code</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/cpanel.png"/><br>cPanel</td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayemulzannat&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayemulzannat&layout=compact&theme=radical)
 
----
 
-### 📫 How to Reach Me:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [your-username](https://github.com/your-username)
-
----
 
 ### 🏆 My Recent Projects:
-- ✅ [Project Name 1](https://github.com/your-username/project1) - Short project description.
-- ✅ [Project Name 2](https://github.com/your-username/project2) - Short project description.
-- ✅ [Project Name 3](https://github.com/your-username/project3) - Short project description.
+- ✅ [php-mvc-project  https://github.com/Nayemulzannat/php-mvc-project.git].
+- ✅ [php-mvc-project-pacage](https://github.com/Nayemulzannat/php-mvc-project-pacage.git).
 
----
 
 ### 🎯 Fun Fact:
 💻 I love debugging complex problems and optimizing database queries for high-performance applications!
+
+---
+
+### 🌍 Find Me On:
+<p>
+  <a href="https://www.facebook.com/profile.php?id=61551127410363" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="www.linkedin.com/in/nayemulzannat" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
