@@ -31,20 +31,12 @@ I'm a **Software Developer** passionate about building web applications, working
     <td align="center"><img src="https://img.icons8.com/color/48/000000/cpanel.png"/><br>cPanel</td>
   </tr>
 </table>
-
 ---
-
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayemulzannat&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayemulzannat&layout=compact&theme=radical)
-
-
-
 ### 🏆 My Recent Projects:
-- ✅ [php-mvc-project  https://github.com/Nayemulzannat/php-mvc-project.git].
+- ✅ [php-mvc-project](https://github.com/Nayemulzannat/php-mvc-project.git).
 - ✅ [php-mvc-project-pacage](https://github.com/Nayemulzannat/php-mvc-project-pacage.git).
 
+---
 
 ### 🎯 Fun Fact:
 💻 I love debugging complex problems and optimizing database queries for high-performance applications!
@@ -60,6 +52,14 @@ I'm a **Software Developer** passionate about building web applications, working
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayemulzannat&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayemulzannat&layout=compact&theme=radical)
 
 ---
 
