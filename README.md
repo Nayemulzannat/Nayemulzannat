@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm MD.Zannatun Nayem
 
-I'm a **Software Developer** passionate about building web applications, working with **PHP, JavaScript, Laravel, and MySQL**. I enjoy learning new technologies and improving backend performance!
+I'm a **Software Developer** passionate about building web applications, working with **PHP, JavaScript, Laravel, and MySQL**. I enjoy learning new technologies and improving backend performance!.
 
 ---
 
