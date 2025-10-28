@@ -5,7 +5,7 @@ I'm a **Software Developer** passionate about building web applications, working
 ---
 
 ### 🚀 About Me:
-- 🎓 Studying **B.Sc. in Computer Science & Engineering** at **Dhaka International University..
+- 🎓 Studying **B.Sc. in Computer Science & Engineering** at **Dhaka International University.
 - 🔧 Working on **MVC PHP Projects & API Integrations**.
 - 💡 Exploring **Advanced Database Management & System Optimization**..
 - ⚡ Interested in **Real-time Data Processing & Reporting Systems**.
